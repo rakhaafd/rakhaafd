@@ -1,1 +1,1 @@
-![rakuu logo (1)](https://github.com/user-attachments/assets/9f1bea8d-8bc7-423f-be95-b88d89321d14)
+![rakuu logo (2)](https://github.com/user-attachments/assets/cece30b3-f1ad-4c10-870d-a143fafb8b16)
