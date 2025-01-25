@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=024CAA&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+print(%22Hello%20World!!%22);I%27m+Rakha+Fausta+Adinata+Raharja)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=4CC9FE&width=435&lines=print(%22Hello%20World!!%22);I%27m+Rakha+Fausta+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-## About Me🤖.
+## About Me🤖
 
 A passionate developer from Indonesia with a strong interest in web development, automation, and problem-solving. I enjoy creating efficient and user-friendly solutions while constantly learning new technologies. Always open to collaboration and new challenges. Feel free to connect with me and explore my work here:
 
@@ -13,7 +13,7 @@ A passionate developer from Indonesia with a strong interest in web development,
 <img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhaafd&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=001F3F&title_color=ffffff&text_color=ffffff" />
 </div>
 
-## Programming Language🧑‍💻.
+## Programming Language🧑‍💻
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
