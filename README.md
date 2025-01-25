@@ -13,7 +13,7 @@ A passionate developer from Indonesia with a strong interest in web development,
 <img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhaafd&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=001F3F&title_color=ffffff&text_color=ffffff" />
 </div>
 
-## Programming Language🧑‍💻
+## Tech🧑‍💻
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -30,6 +30,7 @@ A passionate developer from Indonesia with a strong interest in web development,
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
