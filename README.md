@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=4CC9FE&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+print("Hello World!")+;I'm+Rakha+Fausta+Adinata+Raharja)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=024CAA&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+print("Hello World!")+;I'm+Rakha+Fausta+Adinata+Raharja)](https://git.io/typing-svg)
 
 ## About 🤖
 
@@ -8,9 +8,9 @@ A passionate developer from Indonesia with a strong interest in web development,
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakhaafd) 
 
 <div style="display: flex; gap: 1rem;">
-<img align="left" height='170px' src="https://github-readme-stats.vercel.app/api?username=rakhaafd&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=4CC9FE&title_color=ffffff&icon_color=ffffff&text_color=ffffff" />
+<img align="left" height='170px' src="https://github-readme-stats.vercel.app/api?username=rakhaafd&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=024CAA&title_color=ffffff&icon_color=ffffff&text_color=ffffff" />
 
-<img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhaafd&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=4CC9FE&title_color=ffffff&text_color=ffffff" />
+<img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhaafd&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=024CAA&title_color=ffffff&text_color=ffffff" />
 </div>
 
 ## Programming Language🧑‍💻
@@ -34,4 +34,4 @@ A passionate developer from Indonesia with a strong interest in web development,
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rakhaafd&icon=6&color=4CC9FE)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rakhaafd&icon=6&color=024CAA)](https://visitcount.itsvg.in)
