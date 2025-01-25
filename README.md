@@ -8,9 +8,9 @@ A passionate developer from Indonesia with a strong interest in web development,
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakhaafd) 
 
 <div style="display: flex; gap: 1rem;">
-<img align="left" height='170px' src="https://github-readme-stats.vercel.app/api?username=rakhafaust&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" height='170px' src="https://github-readme-stats.vercel.app/api?username=rakhaafd&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" />
 
-<img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhafaust&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" />
+<img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhaafd&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 ## ⚡ Skills
