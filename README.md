@@ -1,6 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=f59e0b&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Hi+Friends;I'm+Rakha+Fausta+Adinata+Raharja)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=4335A7&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Hi+Friends;I'm+Rakha+Fausta+Adinata+Raharja)](https://git.io/typing-svg)
 
-## 👨🏻‍💻 About
+## About 🤖
 
 A passionate developer from Indonesia with a strong interest in web development, automation, and problem-solving. I enjoy creating efficient and user-friendly solutions while constantly learning new technologies. Always open to collaboration and new challenges. Feel free to connect with me and explore my work here:
 
@@ -8,12 +8,12 @@ A passionate developer from Indonesia with a strong interest in web development,
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakhaafd) 
 
 <div style="display: flex; gap: 1rem;">
-<img align="left" height='170px' src="https://github-readme-stats.vercel.app/api?username=rakhaafd&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" height='170px' src="https://github-readme-stats.vercel.app/api?username=rakhaafd&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=4335A7&title_color=ffffff&icon_color=ffffff&text_color=ffffff" />
 
-<img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhaafd&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" />
+<img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhaafd&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=4335A7&title_color=ffffff&text_color=ffffff" />
 </div>
 
-## ⚡ Skills
+## Programming Language🧑‍💻
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -34,4 +34,4 @@ A passionate developer from Indonesia with a strong interest in web development,
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rakhafaust&icon=6&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rakhaafd&icon=6&color=4335A7)](https://visitcount.itsvg.in)
