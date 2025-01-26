@@ -2,7 +2,7 @@
 
 ## About Me🤖
 
-A passionate developer from Indonesia with a strong interest in web development, automation, and problem-solving. I enjoy creating efficient and user-friendly solutions while constantly learning new technologies. Always open to collaboration and new challenges. Feel free to connect with me and explore my work here:
+#### 🙋‍♂️A passionate developer from Indonesia with a strong interest in web development, automation, and problem-solving. Feel free to connect with me and explore my work here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakha-fausta-17aba1286/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakhaafd) 
@@ -32,7 +32,6 @@ A passionate developer from Indonesia with a strong interest in web development,
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rakhaafd&icon=6&color=024CAA)](https://visitcount.itsvg.in)
