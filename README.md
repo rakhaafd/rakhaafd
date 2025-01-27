@@ -2,8 +2,9 @@
 
 ## About Me🤖
 
-#### 🙋‍♂️A Teen from Indonesia with Strong Interest in Programming and Cyber Security. 
-> Feel Free to Connect With Me and Explore My Work Here:
+#### 🙋‍♂️Teen from Indonesia passionate about programming and cybersecurity. Enthusiastic about exploring tech, building projects, and learning new tools. Always curious and driven to grow in the digital world.🧑‍💻
+
+#### *Feel Free to Connect With Me and Explore My Work Here:*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakha-fausta-17aba1286/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakhaafd) 
