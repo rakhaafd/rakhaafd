@@ -43,7 +43,3 @@ me.say_hi()
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Cisco](https://img.shields.io/badge/-Cisco-136AFE?style=flat-square&logo=cisco&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rakhaafd.rakhaafd)
-
