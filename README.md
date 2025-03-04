@@ -7,7 +7,7 @@ class AboutMe:
     def __init__(self):
         self.name = "Rakha Fausta Adinata Raharja."
         self.role = "Currently Student in SMK NEGERI 7 SEMARANG."
-        self.interest = "Frontend Developer - Cyber Security Enthusiast."
+        self.interest = "Web Developer - Cyber Security Enthusiast."
 
     def say_hi(self):
         print("Thanks for dropping by, feel free to connect with me and explore my work here.")
