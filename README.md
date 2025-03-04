@@ -2,9 +2,9 @@
 
 ## About Me🤖
 
-#### 🙋‍♂️Teen from Indonesia passionate about programming and cybersecurity. Enthusiastic about exploring tech, building projects, and learning new tools. Always curious and driven to grow in the digital world.🧑‍💻
+#### 🙋‍♂️Student from Indonesia passionate about programming and cybersecurity. Enthusiastic about exploring tech, building projects, and learning new tools. Always curious and driven to grow in the digital world.🧑‍💻
 
-#### *Feel Free to Connect With Me and Explore My Work Here:*
+#### **Feel Free to Connect With Me and Explore My Work Here:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakha-fausta-17aba1286/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakhaafd) 
@@ -15,7 +15,7 @@
 <img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhaafd&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=001F3F&title_color=ffffff&text_color=ffffff" />
 </div>
 
-## Tech🧑‍💻
+## Skills🧑‍💻
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -26,6 +26,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![AJAX](https://img.shields.io/badge/AJAX-%23007EC6.svg?style=for-the-badge&logo=javascript&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
