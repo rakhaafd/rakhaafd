@@ -1,19 +1,20 @@
 ## Hi Everyone👋
 
-```py
-#!/usr/bin/python3
-class AboutMe:
+```javascript
+class Myself {
+    constructor() {
+        this.name = "Rakha Fausta Adinata Raharja."
+        this.role = "Currently Student in SMK NEGERI 7 SEMARANG."
+        this.interest = "Web Development & Cyber Sec Enthusiast."
+    }
+    
+    sayHi(){
+        console.log("Thanks for dropping by, feel free to connect with me and explore my work here.")
+    }
+}
 
-    def __init__(self):
-        self.name = "Rakha Fausta Adinata Raharja."
-        self.role = "Currently Student in SMK NEGERI 7 SEMARANG."
-        self.interest = "Web Developer - Cyber Security Enthusiast."
-
-    def say_hi(self):
-        print("Thanks for dropping by, feel free to connect with me and explore my work here.")
-
-me = AboutMe()
-me.say_hi()
+me = new Myself()
+me.sayHi()
 ```
 
 [![Linkedin Badge](https://img.shields.io/badge/-RakhaFausta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakha-fausta-17aba1286/)](https://www.linkedin.com/in/rakha-fausta-17aba1286/)
