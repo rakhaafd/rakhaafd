@@ -2,19 +2,25 @@
 
 ```javascript
 class Myself {
-    constructor() {
-        this.name = "Rakha Fausta Adinata Raharja."
-        this.role = "Currently Student in SMK NEGERI 7 SEMARANG."
-        this.interest = "Web Development & Cyber Sec Enthusiast."
-    }
-    
-    sayHi(){
-        console.log("Thanks for dropping by, feel free to connect with me and explore my work here.")
-    }
+   constructor() {
+      this.name = "Rakha Fausta Adinata Raharja";
+      this.roles = "Currently Student in SMK NEGERI 7 SEMARANG";
+      this.interest = "Fullstack WebDev & Cyber Security Enthusiast.";
+   }
 }
 
-me = new Myself()
-me.sayHi()
+class Introduce extends Myself {
+   constructor() {
+      super();
+   }
+
+   sayHi() {
+      return `Helloo Guys, My Name is ${this.name}\nI'm ${this.roles}\nMy interest is in ${this.interest}`;
+   }
+}
+
+const me = new Introduce();
+console.log(me.sayHi());
 ```
 
 [![Linkedin Badge](https://img.shields.io/badge/-RakhaFausta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakha-fausta-17aba1286/)](https://www.linkedin.com/in/rakha-fausta-17aba1286/)
