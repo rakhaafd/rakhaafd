@@ -12,10 +12,9 @@ class Myself {
 class Introduce extends Myself {
    constructor() {
       super();
-   }
-
-   sayHi() {
-      return `Helloo Guys, My Name is ${this.name}\nI'm ${this.roles}\nMy interest is in ${this.interest}`;
+      this.sayHi = () => {
+         return `Helloo Guys, My Name is ${this.name}\nI'm ${this.roles}\nMy interest is in ${this.interest}`;
+      };
    }
 }
 
