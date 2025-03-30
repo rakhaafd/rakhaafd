@@ -12,9 +12,7 @@ class MySelf:
             "Web Frameworks": ["Flask", "React", "JQuery", "Tailwind/Bootstrap"],
             "Database Services": ["MySQL"],
             "DevOps" : ["Docker", "Linux", "Git & GitHub"],
-            "Tools": [
-                "Postman", "Cisco", "Figma"
-            ]
+            "Tools": ["Postman", "Cisco", "Figma"]
         }
         
     def sayHi(self):
