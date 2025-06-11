@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=Hello,+World!)](https://git.io/typing-svg)
+<img src="coding.gif" style="max-width: 100%">
 
 # Hi there 👋, I'm Rakha Fausta Adinata Raharja!
 
