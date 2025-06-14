@@ -1,4 +1,4 @@
-<img src="coding.gif" style="max-width: 100%">
+<img src="rainy.gif">
 
 # Hi there 👋, I'm Rakha Fausta Adinata Raharja!
 
@@ -7,7 +7,7 @@ Fueled by curiosity and a commitment to continuous learning, I love crafting eng
 
 Feel Free to Connect With Me and Explore My Work Here 🚀
 
-### About Me
+### 🤖 About Me
 - **Username:** rakhaafd
 - **Education:** SMK Negeri 7 Semarang 
 - **Skills:**
