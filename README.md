@@ -1,4 +1,4 @@
-<img src="rainy.gif" width="100%">
+<img src="banner.gif" width="100%">
 
 # Hi there 👋, I'm Rakha Fausta Adinata Raharja!
 
