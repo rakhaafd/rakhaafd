@@ -23,4 +23,3 @@ Feel Free to Connect With Me and Explore My Work Here 🚀
 ### 📫 How to Reach Me
 - **GitHub:** [rakhaafd](https://github.com/rakhaafd)
 - **Linkedin:** [Rakha Fausta](https://www.linkedin.com/in/rakha-fausta-17aba1286/)
-- **Instagram:** [rakhaafd](https://instagram.com/rakhaafd)
