@@ -1,4 +1,4 @@
-<img src="joker.gif" width="100%">
+<img src="akira-kurusu.gif" width="100%">
 
 # Hi there 👋, I'm Rakha Fausta Adinata Raharja!
 
