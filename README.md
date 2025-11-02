@@ -1,5 +1,3 @@
-<img src="akira-kurusu.gif" width="100%">
-
 # Hi there 👋, I'm Rakha Fausta Adinata Raharja!
 
 I'm a student with a passion for Web Development, focusing on Frontend Developing.
