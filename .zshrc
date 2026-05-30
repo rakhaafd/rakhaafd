@@ -15,9 +15,6 @@ source $ZSH/oh-my-zsh.sh
 alias conf="nano ~/.zshrc"
 alias src="source ~/.zshrc"
 alias cl="clear"
-alias py="python3"
-alias ipy="ipython3"
-alias pt="ptpython"
 
 # membuat file dan cd langsung
 function mc() {
